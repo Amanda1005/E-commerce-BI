@@ -21,8 +21,13 @@ Online Retail II UCI Dataset (Kaggle)
 - 1,067,371 transactions
 - 8 columns: Invoice, StockCode, Description, Quantity, InvoiceDate, Price, Customer ID, Country
 
-## Dashboard
-[View Power BI Dashboard](YOUR_POWERBI_LINK_HERE)
+## Dashboard Preview
+
+### Overview
+![Overview](screenshots/overview.jpeg)
+
+### Product & Market
+![Product & Market](screenshots/product_market.jpeg)
 
 ## Files
 - `notebooks/01_eda_cleaning.ipynb` — data cleaning and EDA
